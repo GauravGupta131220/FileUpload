@@ -1,0 +1,40 @@
+
+footer {
+    background: #0275d8!important;
+    color: #eee;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 20px;
+}
+
+
+/**
+ * 
+ * footer
+ */
+ul.noStyle {
+    list-style: none;
+    padding: 0px;
+    font-size: 12px;
+}
+
+
+
+/**
+ * footer
+ */
+.aboutUs p {
+    font-size: 12px;
+    text-align: justify;
+}
+
+
+/**
+ * footer
+ */
+.cRight h6,
+.aboutUs h5,
+.navigation h5,
+.link h5 {
+    color: orange;
+}

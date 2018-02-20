@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+.body {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    /*background: linear-gradient(0deg, #f06e47, #ffab4a);*/
+    background-color: #fbf6ee;
+}
+
+
+.table {
+    border: none;
+    background-color: #add8e6  ;
+    color: white;
+}
+
+
+
+.table-warning{
+	background-color: #42548e;
+}
+
+.table td {
+    vertical-align: middle;
+    color: black;
+}
+
+.btn{
+  margin-right: 5px;
+}
+
+.tableCss{
+	height: 70px;
+	align-content: center;
+}
+
